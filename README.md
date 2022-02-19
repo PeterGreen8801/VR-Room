@@ -2,4 +2,4 @@
 
 A room that demonstrates numerous skills that are vital to most Virtual Reality applications.
 
-Also includes several challenges that further shows VR compentencies, namely the Architecture challenge.
+Also includes several challenges that further show VR compentencies, namely the Architecture challenge.
